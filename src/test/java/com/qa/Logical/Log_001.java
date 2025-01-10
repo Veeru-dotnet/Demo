@@ -8,5 +8,6 @@ public class Log_001 {
 		rev=rev+s.charAt(i);
 	}
 	System.out.println(rev);
+	System.out.println("Code completed");
 }
 }
